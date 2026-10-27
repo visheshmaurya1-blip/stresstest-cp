@@ -35,7 +35,7 @@ When you do not know whether an optimized solution is correct, generate thousand
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stresstest-cp.git
+git clone https://github.com/visheshmaurya1-blip/stresstest-cp.git
 cd stresstest-cp
 
 python -m venv .venv
