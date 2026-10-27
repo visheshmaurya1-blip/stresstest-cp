@@ -1,0 +1,11 @@
+{
+  "name": "array_sum",
+  "kind": "array_int",
+  "timeout_sec": 1.0,
+  "constraints": {
+    "n_min": 0,
+    "n_max": 12,
+    "value_min": -20,
+    "value_max": 20
+  }
+}
