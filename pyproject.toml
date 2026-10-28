@@ -27,7 +27,7 @@ dev = ["pytest>=8.0"]
 stresstest = "stresstest_cp.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/stresstest-cp"
+Homepage = "https://github.com/visheshmaurya1-blip/stresstest-cp"
 
 [tool.setuptools.packages.find]
 where = ["src"]
